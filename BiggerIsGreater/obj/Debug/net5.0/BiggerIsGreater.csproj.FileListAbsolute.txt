@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/bin/Debug/net5.0/BiggerIsGreater.deps.json
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/bin/Debug/net5.0/BiggerIsGreater.runtimeconfig.json
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/bin/Debug/net5.0/BiggerIsGreater.runtimeconfig.dev.json
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/bin/Debug/net5.0/BiggerIsGreater.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/bin/Debug/net5.0/ref/BiggerIsGreater.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/bin/Debug/net5.0/BiggerIsGreater.pdb
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/obj/Debug/net5.0/BiggerIsGreater.csprojAssemblyReference.cache
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/obj/Debug/net5.0/BiggerIsGreater.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/obj/Debug/net5.0/BiggerIsGreater.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/obj/Debug/net5.0/BiggerIsGreater.AssemblyInfo.cs
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/obj/Debug/net5.0/BiggerIsGreater.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/obj/Debug/net5.0/BiggerIsGreater.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/obj/Debug/net5.0/ref/BiggerIsGreater.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/obj/Debug/net5.0/BiggerIsGreater.pdb
+/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/obj/Debug/net5.0/BiggerIsGreater.genruntimeconfig.cache
