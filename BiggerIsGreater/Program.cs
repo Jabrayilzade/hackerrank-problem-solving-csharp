@@ -33,8 +33,12 @@ namespace BiggerIsGreater
                     if (string.CompareOrdinal(arr[j].ToString(), arr[i].ToString()) > 0)
                     {
                         (arr[i], arr[j]) = (arr[j], arr[i]);
-                        if (j != arr.Length - 1) Array.Sort(arr, i, j);
-                        return new string(arr);
+
+                        var leftSlice = arr.Take(i + 1).ToArray();
+                        var rightSlice = arr.Skip(i + 1).ToArray();
+
+                        Array.Sort(rightSlice);
+                        return new string(leftSlice) + new string(rightSlice);
                     }
             }
 
