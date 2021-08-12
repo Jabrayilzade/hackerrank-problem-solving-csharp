@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/bin/Debug/net5.0/CommonChild.deps.json
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/bin/Debug/net5.0/CommonChild.runtimeconfig.json
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/bin/Debug/net5.0/CommonChild.runtimeconfig.dev.json
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/bin/Debug/net5.0/CommonChild.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/bin/Debug/net5.0/ref/CommonChild.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/bin/Debug/net5.0/CommonChild.pdb
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/obj/Debug/net5.0/CommonChild.csprojAssemblyReference.cache
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/obj/Debug/net5.0/CommonChild.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/obj/Debug/net5.0/CommonChild.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/obj/Debug/net5.0/CommonChild.AssemblyInfo.cs
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/obj/Debug/net5.0/CommonChild.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/obj/Debug/net5.0/CommonChild.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/obj/Debug/net5.0/ref/CommonChild.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/obj/Debug/net5.0/CommonChild.pdb
+/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/obj/Debug/net5.0/CommonChild.genruntimeconfig.cache
