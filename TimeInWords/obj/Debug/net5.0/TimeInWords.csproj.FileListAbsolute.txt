@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/bin/Debug/net5.0/TimeInWords.deps.json
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/bin/Debug/net5.0/TimeInWords.runtimeconfig.json
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/bin/Debug/net5.0/TimeInWords.runtimeconfig.dev.json
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/bin/Debug/net5.0/TimeInWords.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/bin/Debug/net5.0/ref/TimeInWords.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/bin/Debug/net5.0/TimeInWords.pdb
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/obj/Debug/net5.0/TimeInWords.csprojAssemblyReference.cache
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/obj/Debug/net5.0/TimeInWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/obj/Debug/net5.0/TimeInWords.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/obj/Debug/net5.0/TimeInWords.AssemblyInfo.cs
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/obj/Debug/net5.0/TimeInWords.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/obj/Debug/net5.0/TimeInWords.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/obj/Debug/net5.0/ref/TimeInWords.dll
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/obj/Debug/net5.0/TimeInWords.pdb
+/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/obj/Debug/net5.0/TimeInWords.genruntimeconfig.cache
