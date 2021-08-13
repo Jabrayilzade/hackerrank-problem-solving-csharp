@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using static System.Console;
 
 namespace Encryption
 {
@@ -71,6 +72,43 @@ namespace Encryption
 
         private static void Main(string[] args)
         {
+            var s = "nihadishtmlprogrammer";
+            int size = s.Length;
+            var rowSize = (int)Math.Floor(Math.Sqrt(size));
+            var colSize = (int)Math.Ceiling(Math.Sqrt(size));
+
+            while (colSize > rowSize)
+            {
+                colSize--;
+                if ((colSize * rowSize) >= size) continue;
+                colSize++;
+                break;
+            }
+
+            while ((colSize * rowSize) < size && (colSize > rowSize))
+            {
+                rowSize++;
+            }
+
+            for (var i = 0; i < colSize; i++)
+            {
+                var row = 0;
+                while (row <= rowSize - 1)
+                {
+                    if ((i + row * colSize) < size)
+                    {
+                        WriteLine(s[i + row * colSize]);
+                        row++;
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+
+                WriteLine(" ");
+            }
+
             Console.WriteLine("Hello World!");
         }
     }
