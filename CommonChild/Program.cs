@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using static System.Console;
 
 namespace CommonChild
@@ -9,29 +7,34 @@ namespace CommonChild
     {
         private static int CommonChild(string s1, string s2)
         {
-            var list1 = new List<char>(s1.ToCharArray());
-            var list2 = new List<char>(s2.ToCharArray());
-            var counter = 0;
+            var arr1 = s1.Where(s2.Contains).ToList();
+            var arr2 = s2.Where(s1.Contains).ToList();
 
-            for (var i = 0; i < list1.Count; i++)
+            var pointer = -1;
+            var length = 0;
+            var max = 0;
+
+            for (var i = 0; i < arr1.Count; i++)
             {
-                if (list2.Contains(list1[i]))
+                for (var j = i; j < arr1.Count; j++)
                 {
-                    WriteLine($"{list1[i]} char of list1 array has matched with char of list array at index {2}");
+                    var matchedIndex = arr2.FindIndex(c => (c == arr1[j]) && (arr2.IndexOf(c) > pointer));
+                    if (matchedIndex <= -1) continue;
+                    pointer = matchedIndex;
+                    length++;
                 }
+
+                if (max < length) max = length;
+                pointer = -1;
+                length = 0;
             }
 
-            // S H I N C H A N 
-            // N O H A R A A A
-
-
-            return counter;
+            return max;
         }
-
 
         private static void Main()
         {
-            WriteLine($"count - {CommonChild("SHINCHAN", "NOHARAAA")}");
+            CommonChild("SHINCHAN", "NOHARAAA");
         }
     }
 }
