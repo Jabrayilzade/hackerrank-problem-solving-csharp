@@ -72,8 +72,8 @@ namespace Encryption
 
         private static void Main(string[] args)
         {
-            var s = "nihadishtmlprogrammer";
-            int size = s.Length;
+            const string s = "nihadishtmlprogrammer";
+            var size = s.Length;
             var rowSize = (int)Math.Floor(Math.Sqrt(size));
             var colSize = (int)Math.Ceiling(Math.Sqrt(size));
 
@@ -85,10 +85,7 @@ namespace Encryption
                 break;
             }
 
-            while ((colSize * rowSize) < size && (colSize > rowSize))
-            {
-                rowSize++;
-            }
+            while ((colSize * rowSize) < size && (colSize > rowSize)) rowSize++;
 
             for (var i = 0; i < colSize; i++)
             {
@@ -100,16 +97,13 @@ namespace Encryption
                         WriteLine(s[i + row * colSize]);
                         row++;
                     }
-                    else
-                    {
-                        break;
-                    }
+                    else break;
                 }
 
                 WriteLine(" ");
             }
 
-            Console.WriteLine("Hello World!");
+            WriteLine("Hello World!");
         }
     }
 }
