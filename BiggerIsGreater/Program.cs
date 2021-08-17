@@ -35,7 +35,7 @@ namespace BiggerIsGreater
                         newChar[k] = chars[end--];
                     }
 
-                    return new stzring(newChar);
+                    return new string(newChar);
                 }
             }
 

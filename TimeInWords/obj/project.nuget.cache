@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/xSjWetspRL8wIWnK22zDCvLp+c7618Gbe5nTnDBcDEDXCsiqvJWDzxdr2MKRRhfn/hMHyeGaNQvECzVbrMqNw==",
+  "dgSpecHash": "uXeD5vt7oxEp5O7cIa4Aqv5lZ3MP8OMbdsNNBQuBZKq/7LtbMoYv/iTnECxvJGZDLAIgiJjMoVLUAhCmqyHHtA==",
   "success": true,
-  "projectFilePath": "/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/TimeInWords.csproj",
+  "projectFilePath": "/Users/user/Documents/GitHub/hackerrank-problems-charp/TimeInWords/TimeInWords.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

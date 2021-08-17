@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/BiggerIsGreater.csproj": {}
+    "/Users/user/Documents/GitHub/hackerrank-problems-charp/BiggerIsGreater/BiggerIsGreater.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/BiggerIsGreater.csproj": {
+    "/Users/user/Documents/GitHub/hackerrank-problems-charp/BiggerIsGreater/BiggerIsGreater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/BiggerIsGreater.csproj",
+        "projectUniqueName": "/Users/user/Documents/GitHub/hackerrank-problems-charp/BiggerIsGreater/BiggerIsGreater.csproj",
         "projectName": "BiggerIsGreater",
-        "projectPath": "/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/BiggerIsGreater.csproj",
+        "projectPath": "/Users/user/Documents/GitHub/hackerrank-problems-charp/BiggerIsGreater/BiggerIsGreater.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/obj/",
+        "outputPath": "/Users/user/Documents/GitHub/hackerrank-problems-charp/BiggerIsGreater/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"

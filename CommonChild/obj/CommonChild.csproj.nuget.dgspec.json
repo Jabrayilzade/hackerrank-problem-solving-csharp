@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/CommonChild.csproj": {}
+    "/Users/user/Documents/GitHub/hackerrank-problems-charp/CommonChild/CommonChild.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/CommonChild.csproj": {
+    "/Users/user/Documents/GitHub/hackerrank-problems-charp/CommonChild/CommonChild.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/CommonChild.csproj",
+        "projectUniqueName": "/Users/user/Documents/GitHub/hackerrank-problems-charp/CommonChild/CommonChild.csproj",
         "projectName": "CommonChild",
-        "projectPath": "/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/CommonChild.csproj",
+        "projectPath": "/Users/user/Documents/GitHub/hackerrank-problems-charp/CommonChild/CommonChild.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/obj/",
+        "outputPath": "/Users/user/Documents/GitHub/hackerrank-problems-charp/CommonChild/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"

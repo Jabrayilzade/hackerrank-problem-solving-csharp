@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/TimeInWords.csproj",
+      "projectUniqueName": "/Users/user/Documents/GitHub/hackerrank-problems-charp/TimeInWords/TimeInWords.csproj",
       "projectName": "TimeInWords",
-      "projectPath": "/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/TimeInWords.csproj",
+      "projectPath": "/Users/user/Documents/GitHub/hackerrank-problems-charp/TimeInWords/TimeInWords.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Documents/GitHub/HackerrankProblemSolving/TimeInWords/obj/",
+      "outputPath": "/Users/user/Documents/GitHub/hackerrank-problems-charp/TimeInWords/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/bin/Debug/net5.0/AlmostSorted.deps.json
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/bin/Debug/net5.0/AlmostSorted.runtimeconfig.json
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/bin/Debug/net5.0/AlmostSorted.runtimeconfig.dev.json
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/bin/Debug/net5.0/AlmostSorted.dll
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/bin/Debug/net5.0/ref/AlmostSorted.dll
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/bin/Debug/net5.0/AlmostSorted.pdb
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/obj/Debug/net5.0/AlmostSorted.csprojAssemblyReference.cache
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/obj/Debug/net5.0/AlmostSorted.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/obj/Debug/net5.0/AlmostSorted.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/obj/Debug/net5.0/AlmostSorted.AssemblyInfo.cs
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/obj/Debug/net5.0/AlmostSorted.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/obj/Debug/net5.0/AlmostSorted.dll
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/obj/Debug/net5.0/ref/AlmostSorted.dll
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/obj/Debug/net5.0/AlmostSorted.pdb
+/Users/user/Documents/GitHub/hackerrank-problems-charp/AlmostSorted/obj/Debug/net5.0/AlmostSorted.genruntimeconfig.cache

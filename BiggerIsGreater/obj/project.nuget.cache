@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wHnNtIWMKbItoWepiHCdpG4JjWHzi2o8cOI66zGO3C1AILImff9YIoTC3xHK3NVxfvAOeKLe65LP0jNk2EBtKA==",
+  "dgSpecHash": "To7kBLukAlPceQGzZtSKVGZ5VSVKUfg7+gu5T3fQjgGSWdwbAGI/Od6drNGOlch5fJX8LIp1VNFNIE5HqYx8wQ==",
   "success": true,
-  "projectFilePath": "/Users/user/Documents/GitHub/HackerrankProblemSolving/BiggerIsGreater/BiggerIsGreater.csproj",
+  "projectFilePath": "/Users/user/Documents/GitHub/hackerrank-problems-charp/BiggerIsGreater/BiggerIsGreater.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

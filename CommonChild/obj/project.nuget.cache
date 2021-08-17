@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+xj7xEg/IFSQZTpgrY6Fpk6OnJDgGK70FqgULMhfl3pk7z4fWcnMoJiZ4tiCbeMWUMdQAFQGgbFDnneGMw+UeA==",
+  "dgSpecHash": "SM7Yl38v88yw9xrUlp5G5JLf8QtZBs1EEmu3u7+MVVHXz45nik5Bf9RXRPY6dtv+C6Z1G+RGKsGvU5GBd8ta4w==",
   "success": true,
-  "projectFilePath": "/Users/user/Documents/GitHub/HackerrankProblemSolving/CommonChild/CommonChild.csproj",
+  "projectFilePath": "/Users/user/Documents/GitHub/hackerrank-problems-charp/CommonChild/CommonChild.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
