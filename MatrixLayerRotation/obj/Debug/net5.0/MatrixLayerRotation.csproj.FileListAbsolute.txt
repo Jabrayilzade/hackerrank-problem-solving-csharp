@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/bin/Debug/net5.0/MatrixLayerRotation.deps.json
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/bin/Debug/net5.0/MatrixLayerRotation.runtimeconfig.json
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/bin/Debug/net5.0/MatrixLayerRotation.runtimeconfig.dev.json
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/bin/Debug/net5.0/MatrixLayerRotation.dll
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/bin/Debug/net5.0/ref/MatrixLayerRotation.dll
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/bin/Debug/net5.0/MatrixLayerRotation.pdb
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/obj/Debug/net5.0/MatrixLayerRotation.csprojAssemblyReference.cache
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/obj/Debug/net5.0/MatrixLayerRotation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/obj/Debug/net5.0/MatrixLayerRotation.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/obj/Debug/net5.0/MatrixLayerRotation.AssemblyInfo.cs
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/obj/Debug/net5.0/MatrixLayerRotation.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/obj/Debug/net5.0/MatrixLayerRotation.dll
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/obj/Debug/net5.0/ref/MatrixLayerRotation.dll
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/obj/Debug/net5.0/MatrixLayerRotation.pdb
+/Users/user/Documents/GitHub/hackerrank-problems-charp/MatrixLayerRotation/obj/Debug/net5.0/MatrixLayerRotation.genruntimeconfig.cache

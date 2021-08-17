@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeInWords", "TimeInWords\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmostSorted", "AlmostSorted\AlmostSorted.csproj", "{CBC61BC8-7F9F-4715-B6F0-33C58B60B889}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixLayerRotation", "MatrixLayerRotation\MatrixLayerRotation.csproj", "{C234D941-BEBE-4F1F-BB4D-8C996F4A45AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{CBC61BC8-7F9F-4715-B6F0-33C58B60B889}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBC61BC8-7F9F-4715-B6F0-33C58B60B889}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBC61BC8-7F9F-4715-B6F0-33C58B60B889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C234D941-BEBE-4F1F-BB4D-8C996F4A45AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C234D941-BEBE-4F1F-BB4D-8C996F4A45AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C234D941-BEBE-4F1F-BB4D-8C996F4A45AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C234D941-BEBE-4F1F-BB4D-8C996F4A45AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
