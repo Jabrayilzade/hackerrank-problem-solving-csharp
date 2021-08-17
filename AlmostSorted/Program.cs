@@ -8,7 +8,7 @@ namespace AlmostSorted
 {
     internal static class Program
     {
-        private static string AlmostSorted(IReadOnlyList<int> arr)
+        private static string AlmostSorted(IList<int> arr)
         {
             var arrLength = arr.Count - 1;
             var l = 0;
@@ -36,23 +36,27 @@ namespace AlmostSorted
                 rStrValue = "reverse";
                 break;
             }
-            
-            // WriteLine(l);
-            // WriteLine(r);
 
-            var arrCopy = new List<int>(arr);
-            arrCopy.Reverse(l, r - l + 1);
-
-            foreach (var e in arrCopy)
+            if (rStrValue == "reverse")
             {
-                Write(e);
-            }
-
-            if (rStrValue != "swap")
-            {
+                var arrCopy = new List<int>(arr);
+                arrCopy.Reverse(l, r - l + 1);
                 for (var i = 0; i < arrCopy.Count - 1; i++)
                 {
                     if (arrCopy[i] <= arrCopy[i + 1]) continue;
+                    rStrValue = "no";
+                    break;
+                }
+            }
+
+            if (rStrValue == "swap")
+            {
+                var arrCopy2 = new List<int>(arr);
+                (arrCopy2[l], arrCopy2[r]) = (arrCopy2[r], arrCopy2[l]);
+
+                for (var i = 0; i < arrCopy2.Count - 1; i++)
+                {
+                    if (arrCopy2[i] <= arrCopy2[i + 1]) continue;
                     rStrValue = "no";
                     break;
                 }
@@ -63,7 +67,7 @@ namespace AlmostSorted
 
         private static void Main()
         {
-            WriteLine(AlmostSorted(new List<int> { 1, 2, 3, 8, 5, 6, 7, 4, 9 }));
+            WriteLine(AlmostSorted(new List<int> { 1, 2, 3, 8, 5, 6, 7, 3, 9, 10 }));
         }
     }
 }
